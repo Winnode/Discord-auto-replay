@@ -1,6 +1,6 @@
 # Discord Auto-Reply Bot
 
-This project provides a bot that automatically replies to messages in specified Discord channels using OpenAI's GPT-3.5-turbo model. The bot can handle multiple Discord tokens and channels, and includes professional logging with colored output.
+This project provides a bot that automatically replies to messages in specified Discord channels using AI. The bot can handle multiple Discord tokens and channels
 
 ## Features
 
